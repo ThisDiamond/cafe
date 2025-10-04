@@ -1,0 +1,29 @@
+.main__title{
+    text-align: center;
+}
+.main__subtitle{
+    text-align: center;
+}
+.main__img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+.img1 {
+    object-fit: contain;
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+.img2 {
+    object-fit: contain;
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+.img3 {
+    object-fit: contain;
+    max-width: 300px;
+    border-radius: 10px;
+}
